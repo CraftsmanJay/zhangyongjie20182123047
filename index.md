@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+// UML小组作业
+＃＃ Github：https://zhangyongjie20182123047.github.io
 
-You can use the [editor on GitHub](https://github.com/CraftsmanJay/zhangyongjie20182123047/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+//  张永杰20182123048
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+用例名称：储存库
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+用例说明：用户运用储存库
 
-```markdown
-Syntax highlighted code block
+参与者：用户
 
-# Header 1
-## Header 2
-### Header 3
+前置条件：用户成功登陆并进入储存库页面
+- 1.代码
+用户新建文件或上传文件后，对文件中的代码进行修改操作
+- 2.问题
+用户遇到问题可发表新问题，请求其他用户解决；可在问题中贴标签
+问题解决后可将其他用户解雇
+- 3.拉去请求
+创建新的拉取，拉取其他用户共同完成代码创建
+代码完成后可将其他用户解雇
+- 4.	动作
+事件流：
+生成，测试和部署您的代码。使代码审查，分支机构管理和问题分类工作按您想要的方式进行。选择一个工作流程模板以开始使用。
+- 5.项目
+在GitHub上设置一个项目委员会，以简化和自动化您的工作流程。
+- 6.维基百科
+Wiki在用户资源库中提供了一个放置项目路线图，显示当前状态并更好地记录软件的位置。
+- 7.安全
+用户选择安全政策、查看安全公告、设置Dependabot警报、代码扫描警报
+- 8.洞察力
+查看用户之间的联系
+- 9.设置
+用户修改仓库的各项设定
 
-- Bulleted
-- List
+后置条件：更新仓库内容后，修改后台数据库
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CraftsmanJay/zhangyongjie20182123047/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
